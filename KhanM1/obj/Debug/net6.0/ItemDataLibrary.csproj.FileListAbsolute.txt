@@ -1,0 +1,13 @@
+C:\Users\alifj\source\repos\KhanM1\KhanM1\bin\Debug\net6.0\ItemDataLibrary.deps.json
+C:\Users\alifj\source\repos\KhanM1\KhanM1\bin\Debug\net6.0\ItemDataLibrary.dll
+C:\Users\alifj\source\repos\KhanM1\KhanM1\bin\Debug\net6.0\ItemDataLibrary.pdb
+C:\Users\alifj\source\repos\KhanM1\KhanM1\obj\Debug\net6.0\ItemDataLibrary.csproj.AssemblyReference.cache
+C:\Users\alifj\source\repos\KhanM1\KhanM1\obj\Debug\net6.0\ItemDataLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alifj\source\repos\KhanM1\KhanM1\obj\Debug\net6.0\ItemDataLibrary.AssemblyInfoInputs.cache
+C:\Users\alifj\source\repos\KhanM1\KhanM1\obj\Debug\net6.0\ItemDataLibrary.AssemblyInfo.cs
+C:\Users\alifj\source\repos\KhanM1\KhanM1\obj\Debug\net6.0\ItemDataLibrary.csproj.CoreCompileInputs.cache
+C:\Users\alifj\source\repos\KhanM1\KhanM1\obj\Debug\net6.0\ItemDataLibrary.dll
+C:\Users\alifj\source\repos\KhanM1\KhanM1\obj\Debug\net6.0\refint\ItemDataLibrary.dll
+C:\Users\alifj\source\repos\KhanM1\KhanM1\obj\Debug\net6.0\ItemDataLibrary.pdb
+C:\Users\alifj\source\repos\KhanM1\KhanM1\obj\Debug\net6.0\ref\ItemDataLibrary.dll
+C:\Users\alifj\source\repos\KhanM1\KhanM1\obj\Debug\net6.0\ItemData.22D46BE2.Up2Date
